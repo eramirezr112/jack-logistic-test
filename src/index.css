@@ -1,0 +1,43 @@
+@import '~antd/dist/antd.css';
+@import "./styles/OrderCard.css";
+@import "./styles/MyOrders.css";
+
+body {
+    margin-top: -20px;
+    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.pac-container {
+    z-index: 9999;
+}
+
+.datePickerInput {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 1rem;
+    padding: 18.5px 14px;
+    border: solid thin #ccc;
+    border-radius: 5px;
+    margin: 16px;
+    width: 80%;
+}
+
+.datePickerInput input{ 
+    border: none;
+    width: 100%;
+}
+
+.datePickerInput input:focus{ 
+    outline: none;
+    
+}
+
+
