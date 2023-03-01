@@ -1,5 +1,5 @@
 # jack-logistic-test
-This is a Jack Logistic Oktara Test
+This is a Logistic Company Sample
 
 # INSTRUCTIONS
 1. Clone this repository
